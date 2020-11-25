@@ -4,6 +4,11 @@ Live Programming Round: Software Engineer Role
 Note: Test Submission instructions will be updated here at 4pm - check back here
 
 
+<h3>Updated FAQ:</h3>
+1. Am I supposed to upload just the client or server code?
+<i>Ans: Commit all your code into your repository(this includes both client and server) along with the instructions.</i>
+
+
 <h3>Test Instructions & prerequisites:</h3>
 
 1. Be familiar with git and it’s commands.
