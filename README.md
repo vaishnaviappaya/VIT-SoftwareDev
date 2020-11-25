@@ -1,7 +1,7 @@
 # VIT-SoftwareDev
 Live Programming Round: Software Engineer Role
 
-Note: Test Submission instructions will be updated here at 4pm - check back here
+<h3>Note: After submitting the test, please fill out the following form: https://docs.google.com/forms/d/e/1FAIpQLSfveUrSe0zCqALDqMYK8iRb3tKpdN9NeSzjnf4LOyMNECaQZQ/viewform </h3>
 
 
 <h3>Updated FAQ:</h3>
