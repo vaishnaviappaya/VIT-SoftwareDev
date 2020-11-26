@@ -1,3 +1,4 @@
 # VIT-SoftwareDev
 
-Exam question will be posted on 26 Nov 2020 @ 1.30pm
+Problem Statement:  
+https://docs.google.com/document/d/16CNXNQ-VLLSoVe7CvJFBzueawgrCjWorB7zMLNvOF94/edit?usp=sharing
